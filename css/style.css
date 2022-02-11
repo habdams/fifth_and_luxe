@@ -186,6 +186,10 @@ footer{
 
 @media screen and (max-width: 960px){
 
+  header p{
+    font-size: 0.9rem;
+  }
+
   .item-card{
     width: 273.8px;
   }
