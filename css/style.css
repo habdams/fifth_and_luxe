@@ -64,6 +64,10 @@ main{
     padding: 10px 50px;
 }
 
+h3{
+  color: #182754;
+}
+
 header{
     display: flex;
     justify-content: space-between;
@@ -118,6 +122,14 @@ header .mobile-only-bar{
 
 .item-card{
     margin-bottom: 70px;
+}
+
+.item-card h3{
+  font-weight: 500;
+}
+
+.item-card h5{
+  color: #888EA0;
 }
 
 
