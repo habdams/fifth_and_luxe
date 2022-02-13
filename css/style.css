@@ -87,10 +87,12 @@ header .price-and-extras {
 header .icons{
   margin-right: 10px;
   width: 16px;
+  
 }
 
 .cart{
   position: relative;
+  
 }
 
 .item-num{
@@ -98,9 +100,12 @@ header .icons{
   width: 20px;
   height: 20px;
   border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   color: white;
   text-align: center;
-  font-size: .9rem;
+  font-size: .8rem;
   position: absolute;
   top: 0;
   right:0;
